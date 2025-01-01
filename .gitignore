@@ -1,0 +1,5 @@
+output/
+output_v1/
+*.json
+*.ps1
+*.exe
